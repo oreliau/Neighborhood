@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "title": "Jardin des Plantes",
+    "content": "An amazing square so beautiful",
+    "location": {
+        "lat": 47.2201433,
+        "lng": -1.5428221
+    }
+  },
+  {
+    "id": 2,
+    "title": "L'ile de versailles",
+    "content": "You will in Japan!",
+    "location": {
+        "lat": 47.2255037,
+        "lng": -1.5547341
+    }
+  },
+  {
+    "id": 3,
+    "title": "Parc de Proces",
+    "content": "The biggest square in Nantes",
+    "location": {
+        "lat":  47.2232496,
+        "lng": -1.581373
+    }
+  },
+  {
+    "id": 4,
+    "title": "Parc du Grand BLotterau",
+    "content": "The best square to make a pique-nique",
+    "location": {
+        "lat": 47.2279985,
+        "lng": -1.5101493
+    }
+  }
+]
