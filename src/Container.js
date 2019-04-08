@@ -78,5 +78,5 @@ export class Container extends Component {
   }
   
   export default GoogleApiWrapper({
-    apiKey: 'AIzaSyB5CUYM_6ijrRN9E_YdDOPnOk4ANAGsLVQ'
+    apiKey: 'AIzaSyAWtg6586LHXwYub_4qLZl-hDZzBn8R4qA'
   })(Container)
